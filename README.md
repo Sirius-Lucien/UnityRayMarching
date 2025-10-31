@@ -2,7 +2,7 @@
 
 基于Unity URP的高性能Ray Marching体积光渲染实现，适用于游戏级实时渲染。
 
-![体积光效果](Assets/RayMarching/LDR_LLL1_0.png)
+![体积光效果](Assets/RayMarching/VolumetricLightDemo.png)
 
 ## 📋 项目简介
 
